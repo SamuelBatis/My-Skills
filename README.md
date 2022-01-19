@@ -19,7 +19,7 @@
   <li>Node</li>
 </ul>
 
-## :framed_picture: Imagens
+## :framed_picture: Imagem
 
 <p>
   <img src="/public/app.png">
